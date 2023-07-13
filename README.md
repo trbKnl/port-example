@@ -1,3 +1,7 @@
+# Example: Repository
+
+This repository contains a very simple example of a data donation flow.
+
 <p align="center">
   <a href="https://github.com/eyra/port">
     <img width="40%" height="40%" src="./public/port_logo.svg">
